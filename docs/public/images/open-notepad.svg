@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="540" viewBox="0 0 960 540" role="img" aria-labelledby="title desc">
+  <title id="title">Open with Notepad placeholder</title>
+  <desc id="desc">A placeholder screenshot showing config content in Notepad.</desc>
+  <rect width="960" height="540" fill="#f8fafc"/>
+  <rect x="96" y="56" width="768" height="428" rx="10" fill="#ffffff" stroke="#cbd5e1"/>
+  <rect x="96" y="56" width="768" height="42" rx="10" fill="#e2e8f0"/>
+  <text x="124" y="83" font-family="Arial, sans-serif" font-size="15" font-weight="700" fill="#0f172a">config.toml - Notepad</text>
+  <g font-family="Consolas, monospace" font-size="17" fill="#334155">
+    <text x="132" y="142">model_provider = "OpenAI"</text>
+    <text x="132" y="176">model = "gpt-5.4"</text>
+    <text x="132" y="210">review_model = "gpt-5.4"</text>
+    <text x="132" y="244">disable_response_storage = true</text>
+    <text x="132" y="298">[model_providers.OpenAI]</text>
+    <text x="132" y="332">base_url = "https://api.example.com"</text>
+    <text x="132" y="366">wire_api = "responses"</text>
+  </g>
+  <rect x="128" y="410" width="704" height="1" fill="#e2e8f0"/>
+</svg>

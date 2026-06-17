@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="540" viewBox="0 0 960 540" role="img" aria-labelledby="title desc">
+  <title id="title">Create API key placeholder</title>
+  <desc id="desc">A placeholder screenshot showing an API key creation page.</desc>
+  <rect width="960" height="540" fill="#f8fafc"/>
+  <rect x="48" y="48" width="864" height="444" rx="10" fill="#ffffff" stroke="#cbd5e1"/>
+  <rect x="48" y="48" width="864" height="58" rx="10" fill="#1f2937"/>
+  <circle cx="84" cy="77" r="7" fill="#ef4444"/>
+  <circle cx="108" cy="77" r="7" fill="#f59e0b"/>
+  <circle cx="132" cy="77" r="7" fill="#22c55e"/>
+  <rect x="88" y="158" width="330" height="26" rx="5" fill="#0f172a"/>
+  <rect x="88" y="208" width="720" height="48" rx="6" fill="#eff6ff" stroke="#bfdbfe"/>
+  <rect x="112" y="226" width="240" height="12" rx="3" fill="#2563eb"/>
+  <rect x="88" y="286" width="720" height="56" rx="6" fill="#f8fafc" stroke="#cbd5e1"/>
+  <rect x="112" y="306" width="180" height="12" rx="3" fill="#64748b"/>
+  <rect x="646" y="388" width="162" height="48" rx="7" fill="#0f766e"/>
+  <text x="727" y="419" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#ffffff">Create Key</text>
+</svg>

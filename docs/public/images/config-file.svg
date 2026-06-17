@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="540" viewBox="0 0 960 540" role="img" aria-labelledby="title desc">
+  <title id="title">Config file placeholder</title>
+  <desc id="desc">A placeholder screenshot showing config.toml inside a folder.</desc>
+  <rect width="960" height="540" fill="#f8fafc"/>
+  <rect x="80" y="70" width="800" height="400" rx="10" fill="#ffffff" stroke="#cbd5e1"/>
+  <rect x="80" y="70" width="800" height="52" rx="10" fill="#e2e8f0"/>
+  <rect x="120" y="154" width="720" height="54" rx="6" fill="#f8fafc" stroke="#cbd5e1"/>
+  <path d="M152 170h28l18 18v30h-46z" fill="#dbeafe" stroke="#2563eb"/>
+  <path d="M180 170v18h18" fill="#bfdbfe" stroke="#2563eb"/>
+  <text x="224" y="188" font-family="Arial, sans-serif" font-size="17" font-weight="700" fill="#0f172a">config.toml</text>
+  <text x="224" y="210" font-family="Arial, sans-serif" font-size="13" fill="#64748b">TOML configuration file</text>
+  <rect x="120" y="232" width="720" height="54" rx="6" fill="#f8fafc" stroke="#cbd5e1"/>
+  <path d="M152 248h28l18 18v30h-46z" fill="#dcfce7" stroke="#16a34a"/>
+  <path d="M180 248v18h18" fill="#bbf7d0" stroke="#16a34a"/>
+  <text x="224" y="266" font-family="Arial, sans-serif" font-size="17" font-weight="700" fill="#0f172a">auth.json</text>
+  <text x="224" y="288" font-family="Arial, sans-serif" font-size="13" fill="#64748b">Authentication file</text>
+</svg>
