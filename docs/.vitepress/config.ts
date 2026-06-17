@@ -5,14 +5,14 @@ const base = process.env.BASE_PATH || '/'
 export default defineConfig({
   base,
   cleanUrls: true,
-  title: 'Codex, Claude Code, Gemini CLI Guide',
+  title: 'CodeMax Guide',
   description: 'Setup guide for Codex, Claude Code, and Gemini CLI.',
   lastUpdated: true,
   locales: {
     root: {
       label: 'English',
       lang: 'en-US',
-      title: 'Codex, Claude Code, Gemini CLI Guide',
+      title: 'CodeMax Guide',
       description: 'Setup guide for Codex, Claude Code, and Gemini CLI.',
       themeConfig: {
         nav: [{ text: 'Guide', link: '/guide' }],
@@ -41,7 +41,7 @@ export default defineConfig({
       label: '简体中文',
       lang: 'zh-CN',
       link: '/zh/',
-      title: 'Codex、Claude Code、Gemini CLI 使用说明',
+      title: 'CodeMax 教程',
       description: 'Codex、Claude Code、Gemini CLI 使用说明。',
       themeConfig: {
         nav: [{ text: '教程', link: '/zh/guide' }],
