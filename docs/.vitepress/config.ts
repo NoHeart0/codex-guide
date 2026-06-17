@@ -5,22 +5,22 @@ const base = process.env.BASE_PATH || '/'
 export default defineConfig({
   base,
   cleanUrls: true,
-  title: 'Codex Setup Guide',
-  description: 'Codex setup guide.',
+  title: 'Codex, Claude Code, Gemini CLI Guide',
+  description: 'Setup guide for Codex, Claude Code, and Gemini CLI.',
   lastUpdated: true,
   locales: {
     root: {
       label: 'English',
       lang: 'en-US',
-      title: 'Codex Setup Guide',
-      description: 'Codex setup guide.',
+      title: 'Codex, Claude Code, Gemini CLI Guide',
+      description: 'Setup guide for Codex, Claude Code, and Gemini CLI.',
       themeConfig: {
         nav: [{ text: 'Guide', link: '/guide' }],
         sidebar: [
           {
             text: 'Pages',
             items: [
-              { text: 'Codex Setup Guide', link: '/guide' }
+              { text: 'Codex, Claude Code, Gemini CLI Guide', link: '/guide' }
             ]
           }
         ],
@@ -41,15 +41,15 @@ export default defineConfig({
       label: '简体中文',
       lang: 'zh-CN',
       link: '/zh/',
-      title: 'Codex 配置教程',
-      description: 'Codex 配置教程。',
+      title: 'Codex、Claude Code、Gemini CLI 使用说明',
+      description: 'Codex、Claude Code、Gemini CLI 使用说明。',
       themeConfig: {
         nav: [{ text: '教程', link: '/zh/guide' }],
         sidebar: [
           {
             text: '页面',
             items: [
-              { text: 'Codex 配置教程', link: '/zh/guide' }
+              { text: 'Codex、Claude Code、Gemini CLI 使用说明', link: '/zh/guide' }
             ]
           }
         ],
@@ -72,7 +72,7 @@ export default defineConfig({
       provider: 'local'
     },
     footer: {
-      message: 'Codex setup guide.',
+      message: 'Setup guide.',
       copyright: 'Copyright © 2026'
     }
   }
