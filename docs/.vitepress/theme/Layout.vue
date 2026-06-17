@@ -32,8 +32,8 @@ onMounted(() => {
   const pagePath = stripBase(window.location.pathname)
   const isRootPage = pagePath === '/' || pagePath === '/index.html'
 
-  if (isRootPage && browserPrefersChinese()) {
-    window.location.replace(`${normalizedBase()}zh/`)
+  if (isRootPage) {
+    window.location.replace(`${normalizedBase()}${browserPrefersChinese() ? 'zh/guide' : 'guide'}`)
   }
 })
 </script>

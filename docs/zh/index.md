@@ -2,8 +2,8 @@
 title: 首页
 ---
 
-# Codex 配置教程
+# Codex、Claude Code、Gemini CLI 使用说明
 
-这里仅保留 Codex 配置教程。
+这里是 Codex、Claude Code、Gemini CLI 使用说明。
 
-打开 [Codex 配置教程](/zh/guide)。
+打开 [使用说明](/zh/guide)。

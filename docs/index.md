@@ -2,8 +2,8 @@
 title: Home
 ---
 
-# Codex Setup Guide
+# Codex, Claude Code, and Gemini CLI Guide
 
-This site contains the Codex setup guide.
+This site contains the Codex, Claude Code, and Gemini CLI setup guide.
 
-Open the [Codex setup guide](/guide).
+Open the [setup guide](/guide).
